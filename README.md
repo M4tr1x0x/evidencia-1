@@ -28,3 +28,13 @@ La aplicación web para **Halcon**, un distribuidor de materiales de construcci�
   - Cliente
   - Fecha
   - Estado
+
+## Metodología de Trabajo
+
+Hemos optado por utilizar una **metodología ágil** debido a la naturaleza iterativa y flexible de este proyecto. Dado que el cliente puede necesitar ajustes durante el desarrollo, la metodología ágil permite:
+
+- **Iteraciones rápidas (sprints)** para entregar versiones funcionales de la aplicación de manera continua.
+- **Feedback constante** con el cliente, asegurando que el desarrollo se alinee con los requisitos y necesidades reales.
+- Flexibilidad para **ajustar prioridades** y adaptar el proyecto en caso de que se presenten nuevos requerimientos o cambios.
+
+Al trabajar en sprints, podemos asegurar que el sistema esté disponible en fases, permitiendo al cliente interactuar con versiones parciales de la aplicación y dar su opinión para mejoras.
